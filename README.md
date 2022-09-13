@@ -1,13 +1,18 @@
-### Hi there 👋
-I'm Israel, a mexican entry-level Data/Business Analyst.
+## Hi there 👋
+I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
 - ⚙ Experienced with:
   - 🛠 SQL for queries
   - 🛠 Excel
   - 🛠 Power BI, Tableau
-- 🤔 I’m currently learning
+  
+- 🤔 Basic level in:
   - 💻 R Programming
   - 💻 Git 
   - 📜 Japanese
+  
+- 🚧 Next steps in my career ...
+  - Study a Master on Data Science/Analytics in Japan. 🏫
+  - Help/collaborate with an enterprise that wants to leverage their decision making through data.
 
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
 
