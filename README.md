@@ -11,6 +11,7 @@ I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
   - 📜 Japanese
   
 - 🚧 Next steps in my career ...
+  - Learn rMarkdown and Shiny App development 📚 
   - Study a Master on Data Science/Analytics in Japan. 🏫
   - Help/collaborate with an enterprise that wants to leverage their decision making through data.
 
