@@ -4,15 +4,15 @@ I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
   - 🛠 SQL for queries
   - 🛠 Excel
   - 🛠 Power BI, Tableau
+  - 💻 R Programming + Tidyverse
   
 - 🤔 Basic level in:
-  - 💻 R Programming
   - 💻 Git 
   - 📜 Japanese
   
 - 🚧 Next steps in my career ...
   - Learn rMarkdown and Shiny App development 📚 
-  - Study a Master on Data Science/Analytics in Japan. 🏫
+  - Study a Master on Economics/Data Science/Analytics in Japan. 🏫
   - Help/collaborate with an enterprise that wants to leverage their decision making through data.
 
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
