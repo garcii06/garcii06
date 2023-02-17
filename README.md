@@ -15,8 +15,10 @@ I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
   - Study a Master on Economics/Data Science/Analytics in Japan. 🏫
   - Help/collaborate with an enterprise that wants to leverage their decision making through data.
 
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
-
+- 📫 How to reach me:
+  - [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
+  - [Maven Portafolio](https://www.mavenanalytics.io/profile/Israel-Garcia-Cavazos/135315417)
+ 
 <!--
 **garcii06/garcii06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
