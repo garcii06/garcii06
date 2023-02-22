@@ -2,22 +2,25 @@
 I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
 - ⚙ Experienced with:
   - 🛠 SQL for queries
-  - 🛠 Excel
-  - 🛠 Power BI, Tableau
+  - 🔢 Excel
+  - 📊 Power BI, Tableau
   - 💻 R Programming + Tidyverse
   
-- 🤔 Basic level in:
+- 🤔 Crrently learning:
   - 💻 Git 
   - 📜 Japanese
   
 - 🚧 Next steps in my career ...
-  - Learn rMarkdown and Shiny App development 📚 
-  - Study a Master on Economics/Data Science/Analytics in Japan. 🏫
-  - Help/collaborate with an enterprise that wants to leverage their decision making through data.
+  - Study a Master in Japan. 🗾
+  - Improve my analytical and communication skills.  💭
+  - Learn new tools and concepts about data/BA/BI/etc. 📚 
+  - Help/collaborate with a company/business that wants to leverage their decision making through data. 💹
 
-- 📫 How to reach me:
+- 📫 How to reach me:  
+The best way to reach me or see my projects/abilities is through:
   - [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
   - [Maven Portafolio](https://www.mavenanalytics.io/profile/Israel-Garcia-Cavazos/135315417)
+  - [Github Portafolio](https://github.com/garcii06)
  
 <!--
 **garcii06/garcii06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
