@@ -20,7 +20,9 @@ I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
 The best way to reach me or see my projects/abilities is through:
   - [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
   - [Maven Portafolio](https://www.mavenanalytics.io/profile/Israel-Garcia-Cavazos/135315417)
-  - [Github Portafolio](https://github.com/garcii06)
+  - [SQL Projects](https://github.com/garcii06/SQL_mini_projects)
+  - [Viz Projects](https://github.com/garcii06/Visualization_mini_projects)
+  - [R Projects](https://github.com/garcii06/R_mini_projects)
  
 <!--
 **garcii06/garcii06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
