@@ -1,17 +1,20 @@
 ## Hi there 👋
-I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
+I'm Israel, a mexican Data Enthusiast, Data Analyst & self learned Data Engineer.
 - ⚙ Experienced with:
-  - 🛠 SQL for queries
+  - 🛠 SQL (T-SQL & HANA SQL)
   - 🔢 Excel
-  - 📊 Power BI, Tableau
-  - 💻 R Programming + Tidyverse
+  - 📊 Power BI, Tableau, Crystal Reports
+  - 💻 R Programming + Tidyverse, Python Polars
   
-- 🤔 Crrently learning:
-  - 💻 Git 
+- 🤔 Currently learning/Reading:
+  - 💻 [Web Scraping with Python, 3rd Edition](https://learning.oreilly.com/library/view/web-scraping-with/9781098145347/)
+  - 💻 [Databricks Certified Data Engineer Associate Study Guide](https://www.oreilly.com/library/view/databricks-certified-data/9781098166823/)
+  - 💻 [DuckDB in Action](https://learning.oreilly.com/library/view/duckdb-in-action/9781633437258/)
   - 📜 Japanese
+  - 💲 Finances
   
 - 🚧 Next steps in my career ...
-  - Study a Master in Japan. 🗾
+  - Travel to Japan. 🗾
   - Improve my analytical and communication skills.  💭
   - Learn new tools and concepts about data/BA/BI/etc. 📚 
   - Help/collaborate with a company/business that wants to leverage their decision making through data. 💹
@@ -19,11 +22,6 @@ I'm Israel, a mexican entry-level/Jr. Data/Business Analyst.
 - 📫 How to reach me:  
 The best way to reach me or see my projects/abilities is through:
   - [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
-  - [Maven Portafolio](https://www.mavenanalytics.io/profile/Israel-Garcia-Cavazos/135315417)
-  - [SQL Projects](https://github.com/garcii06/SQL_mini_projects)
-  - [Viz Projects](https://github.com/garcii06/Visualization_mini_projects)
-  - [R Projects](https://github.com/garcii06/R_mini_projects)
- 
 <!--
 **garcii06/garcii06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
