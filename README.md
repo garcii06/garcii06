@@ -7,9 +7,6 @@ I'm Israel, a mexican Data Enthusiast, Data Analyst & self learned Data Engineer
   - 💻 R Programming + Tidyverse, Python Polars
   
 - 🤔 Currently learning/Reading:
-  - 💻 [Web Scraping with Python, 3rd Edition](https://learning.oreilly.com/library/view/web-scraping-with/9781098145347/)
-  - 💻 [Databricks Certified Data Engineer Associate Study Guide](https://www.oreilly.com/library/view/databricks-certified-data/9781098166823/)
-  - 💻 [DuckDB in Action](https://learning.oreilly.com/library/view/duckdb-in-action/9781633437258/)
   - 📜 Japanese
   - 💲 Finances
   
