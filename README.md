@@ -1,21 +1,19 @@
 ## Hi there 👋
-I'm Israel, a mexican Data Enthusiast, Data Analyst & self learned Data Engineer.
+I'm Israel, a mexican Data Enthusiast, Data Analyst/Analytics Engineer & currently trying to learn Data Engineer.
 - ⚙ Experienced with:
   - 🛠 SQL (T-SQL & HANA SQL)
   - 🔢 Excel
   - 📊 Power BI, Tableau, Crystal Reports
   - 💻 R Programming + Tidyverse, Python Polars
+ 
+- 🧠 Competent with:
+  - ❄ Snowflake
+  - 🤖 dbt
   
-- 🤔 Currently learning/Reading:
-  - 📜 Japanese
-  - 💲 Finances
-  
-- 🚧 Next steps in my career ...
+- 🚧 Looking forward to ...
   - Travel to Japan. 🗾
-  - Improve my analytical and communication skills.  💭
-  - Learn new tools and concepts about data/BA/BI/etc. 📚 
-  - Help/collaborate with a company/business that wants to leverage their decision making through data. 💹
-
+  - Become a Data Engineer 🔧
+  
 - 📫 How to reach me:  
 The best way to reach me or see my projects/abilities is through:
   - [LinkedIn Profile](https://www.linkedin.com/in/isra-gca/)
