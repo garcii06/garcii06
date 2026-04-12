@@ -9,6 +9,7 @@ I'm Israel, a mexican Data Enthusiast, Data Analyst/Analytics Engineer & current
 - 🧠 Competent with:
   - ❄ Snowflake
   - 🤖 dbt
+  - 🛫 Airflow 3
   
 - 🚧 Looking forward to ...
   - Travel to Japan. 🗾
